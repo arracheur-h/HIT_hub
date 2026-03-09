@@ -13,7 +13,7 @@ local games = {
     {name = "Aimbot Rivals", url = "https://raw.githubusercontent.com/arracheur-h/HIT_hub/refs/heads/main/rivals.lua", color = Color3.fromRGB(180, 100, 255)},
     {name = "Hide or Die", url = "https://raw.githubusercontent.com/arracheur-h/HIT_hub/refs/heads/main/hideordie.lua", color = Color3.fromRGB(180, 100, 255)},
     {name = "niversal TiggerBot", url = "https://raw.githubusercontent.com/arracheur-h/HIT_hub/refs/heads/main/aimbot.lua", color = Color3.fromRGB(180, 100, 255)},
-    {name = "Taxi Bos", url = "https://vss.pandadevelopment.net/virtual/file/aed90696aa61490a", color = Color3.fromRGB(180, 100, 255)},
+    {name = "Taxi Bos", url = "https://raw.githubusercontent.com/arracheur-h/HIT_hub/refs/heads/main/TaxiBoss.lua", color = Color3.fromRGB(180, 100, 255)},
     {name = "Fisch", url = "https://vss.pandadevelopment.net/virtual/file/876871e95b2e4b7d", color = Color3.fromRGB(180, 100, 255)},
 }
 -- Create Config Manager
